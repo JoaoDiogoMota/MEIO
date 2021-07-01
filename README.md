@@ -8,7 +8,9 @@ to guarantee a fruitful result for it.
 The article chosen for analysis was the Spatial hidden Markov models and species distributions - an article where the
 introduction of a hidden Markov model to analyze the distribution of
 a species of birds on a map, taking into account the possible existence
-of species observation errors during the map creation process.
+of species observation errors during the map creation process. ([Technical Report](https://github.com/JoaoDiogoMota/MEIO/blob/master/report.pdf)) ([Article Analysis Report](https://github.com/JoaoDiogoMota/MEIO/blob/master/report_article.pdf))
+
+
 
 ## Collaborators
 
