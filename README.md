@@ -1,11 +1,21 @@
-O  objetivo deste projeto é adquirir competências relativas à Programação
-Dinâmica Estocástica. Assim, serão analisados todos os cenários possíveis de
-acordo com as informações fornecidas no enunciado, permitindo a formulação
-e resolução do problema.
-Com este estudo, pretende-se concluir qual a política ótima de transferência diária de automóveis entre as duas filiais de um empresário, de forma
-a garantir um resultado proveitoso para o mesmo.
+The objective of this project is to acquire skills related to Programming
+Stochastic Dynamics. Thus, all possible scenarios of
+according to the information provided in the statement, allowing the formulation
+and problem solving.
+With this study, it is intended to conclude what is the optimal policy for the daily transfer of cars between the two branches of an entrepreneur, so
+to guarantee a fruitful result for it.
 
-O artigo escolhido para análise foi o Spatial hidden Markov models and species distributions - um artigo onde se discute a
-introdução de um modelo oculto de Markov para analisar a distribuição de
-uma espécie de aves num mapa, tendo em consideração a possível existência
-de erros de observação da espécie durante o processo de criação do mapa.
+The article chosen for analysis was the Spatial hidden Markov models and species distributions - an article where the
+introduction of a hidden Markov model to analyze the distribution of
+a species of birds on a map, taking into account the possible existence
+of species observation errors during the map creation process.
+
+## Collaborators
+
+| Name            	|
+|-----------------	|
+| [João Diogo Mota](https://github.com/JoaoDiogoMota) 	|
+| [Pedro Gonçalves](https://github.com/JaK0be) 	|
+| [Rodolfo Silva](https://github.com/Th0l)   	|
+
+> <img src="https://seeklogo.com/images/U/Universidade_do_Minho-logo-CB2F98451C-seeklogo.com.png" align="left" height="48" width="48" > University of Minho, Software Engineering (3rd Year).
